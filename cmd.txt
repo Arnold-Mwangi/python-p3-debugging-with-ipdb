@@ -1,0 +1,500 @@
+    5  git clone git@github.com:Arnold-Mwangi/react-hooks-fetch-crud-code-along.git
+    6  cd react-hooks-fetch-crud-code-along
+    7  npm i
+    8  code .
+    9  git add .
+   10  git commit -m"Completed Assignment"
+   11  git push
+   12  npm run server
+   13  npm start
+   14  code .
+   15  git clone git@github.com:MartinNyaga/json-temp-for-bank.git
+   16  cd json-temp-for-bank
+   17  code .
+   18  code .
+   19  code .
+   20  cd ../
+   21  cd ../
+   22  cd ../
+   23  cd ../
+   24  cd ../
+   25  cd ../
+   26  cd ../
+   27  sudo apt update
+   28  sudo apt upgrade
+   29  apt-get update
+   30  git clone git@github.com:Arnold-Mwangi/json-temp-for-bank.git
+   31  cd json-temp-for-bank
+   32  code .
+   33  code .
+   34  git clone https://moringa.instructure.com/courses/460/assignments/30622?module_item_id=65389
+   35  git clone git@github.com:Arnold-Mwangi/react-hooks-fetch-crud-lab.git
+   36  react-hooks-fetch-crud-lab
+   37  cd react-hooks-fetch-crud-lab
+   38  npm i
+   39  code .
+   40  code 
+   41  code .
+   42  npx create-react-app market_place
+   43  npx create-react-app market place
+   44  npx create-react-app market place
+   45  npx create-react-app market-place
+   46  code .
+   47  npm start
+   48  npm start
+   49  npm run server
+   50  code .
+   51  git clone git@github.com:Arnold-Mwangi/react-hooks-fetch-crud-lab.git
+   52  cd react-hooks-fetch-crud-lab
+   53  npm i
+   54  code .
+   55  touch tablestyle.css
+   56  ls
+   57  touch cms.html
+   58  code .
+   59  code .
+   60   /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 33745 -- /home/user/Downloads/JCU/Donald\ Kipchumba/Problem\ solving/prac_07/prac_07/debugging.py 
+   61   cd /home/user/Downloads/JCU/Donald\ Kipchumba/Problem\ solving/prac_07 ; /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 33023 -- /home/user/Downloads/JCU/Donald\ Kipchumba/Problem\ solving/prac_07/prac_07/debugging.py 
+   62   cd /home/user/Downloads/JCU/Donald\ Kipchumba/Problem\ solving/prac_07 ; /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 57161 -- /home/user/Downloads/JCU/Donald\ Kipchumba/Problem\ solving/prac_07/prac_07/debugging.py 
+   63   cd /home/user/Downloads/JCU/Donald\ Kipchumba/Problem\ solving/prac_07 ; /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 47313 -- /home/user/Downloads/JCU/Donald\ Kipchumba/Problem\ solving/prac_07/prac_07/menu_with_functions.py 
+   64   cd /home/user/Downloads/JCU/Donald\ Kipchumba/Problem\ solving/prac_07 ; /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 39829 -- /home/user/Downloads/JCU/Donald\ Kipchumba/Problem\ solving/prac_07/prac_07/jerry.py 
+   65   cd /home/user/Downloads/JCU/Donald\ Kipchumba/Problem\ solving/prac_07 ; /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 46489 -- /home/user/Downloads/JCU/Donald\ Kipchumba/Problem\ solving/prac_07/prac_07/dog_years.py 
+   66   cd /home/user/Downloads/JCU/Donald\ Kipchumba/Problem\ solving/prac_07 ; /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 47141 -- /home/user/Downloads/JCU/Donald\ Kipchumba/Problem\ solving/prac_07/prac_07/seconds.py 
+   67   cd /home/user/Downloads/JCU/Donald\ Kipchumba/Problem\ solving/prac_07 ; /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 35227 -- /home/user/Downloads/JCU/Donald\ Kipchumba/Problem\ solving/prac_07/prac_07/bmis.py 
+   68   cd /home/user/Downloads/JCU/Donald\ Kipchumba/Problem\ solving/prac_07 ; /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 35033 -- /home/user/Downloads/JCU/Donald\ Kipchumba/Problem\ solving/prac_07/prac_07/bmis.py 
+   69   cd /home/user/Downloads/JCU/Donald\ Kipchumba/Problem\ solving/prac_07 ; /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 40177 -- /home/user/Downloads/JCU/Donald\ Kipchumba/Problem\ solving/prac_07/prac_07/bmis.py 
+   70  code .
+   71  git clone git@github.com:Arnold-Mwangi/react-hooks-react-router-code-along.git
+   72  cd react-hooks-react-router-code-along
+   73  npm i
+   74  git clone git@github.com:Gathoni-Wanjira/react-hooks-react-router-routes-lab.git
+   75  cd react-hooks-react-router-routes-lab
+   76  code .
+   77  code .
+   78  code .
+   79  code .
+   80  code .
+   81  GIT ADD .
+   82  git add .
+   83  git commit -m"Completed Assignmnet"
+   84  git push
+   85  npm i
+   86  npm start
+   87  npx create-react-app hookup
+   88  cd hookup
+   89  code .
+   90  code .
+   91  cd ../
+   92  cd ../
+   93  git clone git@github.com:Arnold-Mwangi/react-hooks-react-router-dynamic-routes.git
+   94  cd react-hooks-react-router-dynamic-routes
+   95  npm i
+   96  code .
+   97  code .
+   98  sudo service bluetooth restart
+   99  sudo service bluetooth restart
+  100  sudo service bluetooth restart
+  101  sudo service bluetooth restart
+  102  sudo apt update
+  103  sudo apt upgrade
+  104  code .
+  105  npx create-react-app routerstrivelia
+  106  cdrouterstrivelia
+  107  code .
+  108  code .
+  109  code .
+  110  cd bot-battlr
+  111  npm start
+  112  git reset git reset <revert_commit_hash>
+  113  cd ../
+  114  git clone git@github.com:Arnold-Mwangi/Bot-Battlr.git
+  115  cd ../
+  116  cd ../
+  117  git clone git reflog
+  118  cd bot-battlr
+  119  ls
+  120  cd code_challenge
+  121  cd bot-battlr
+  122  git reflog
+  123  git add .
+  124  git commit -m"db"
+  125  git push
+  126  code .
+  127  CD ..
+  128  cd ..
+  129  cd ..
+  130  cd ../
+  131  cd ../
+  132  cd ../
+  133  cd ../
+  134  cd ../
+  135  cd ../
+  136  code .
+  137  git add .
+  138  git commit -m"Completed Assignment"
+  139  git push
+  140  git add .
+  141  git commit -m"Added styling"
+  142  git push
+  143  npm start
+  144  code .
+  145  code .
+  146  code .
+  147  code .
+  148  cd development
+  149  cd Development
+  150  cd code/phase_02
+  151  ls
+  152  mkdir phase_02_project
+  153  cd phase_02
+  154  cd phase_02_project
+  155  ls
+  156  git clone git@github.com:Gathoni-Wanjira/Blogify.git
+  157  cd Blogify
+  158  code .
+  159  npm start
+  160  npm start
+  161  npm start
+  162  code .
+  163  git pull
+  164  npm start
+  165  npm install react-router-dom
+  166  npm start
+  167  git checkout main
+  168  git pull
+  169  git checkout -b Ft-AddBlog
+  170  git add .
+  171  git commit -m"Initiliazed Add blog feature"
+  172  git push -u origin Ft-blogroute
+  173  git push -u origin Ft-AddBlog
+  174  npm start
+  175  json-server -watch db.json
+  176  ls
+  177  json-server -watch db.json --port 4001
+  178  clear
+  179  ls
+  180  json-server -watch db.json
+  181  npm install -g json-server
+  182  json-server -watch db.json
+  183  npm install -g json-server
+  184  json-server --watch db.json
+  185  json-server --watch db.json --port 3002
+  186  git remote -v
+  187  git checkout -b addBlog-ft
+  188  git push
+  189  git push -u origin
+  190  git push -u origin addBlog-ft
+  191  git status
+  192  git add .
+  193  git commit -m"Post new blog Functionality"
+  194  git push -u origin main Ft-AddBlog
+  195  clear
+  196  git add .
+  197  git status
+  198  git commit -m "Added posting feature"
+  199  git push -u origin Ft-AddBlog
+  200  git clone git@github.com:Gathoni-Wanjira/Blogify.git
+  201  cd Blogify
+  202  git checkout main
+  203  git pull
+  204  git checkout -b Ft-AddBlog
+  205  git add .
+  206  git commit -m"init posting component"
+  207  git push -u origin Ft-blogroute
+  208  git push -u origin Ft-AddBlog
+  209  git add .
+  210  git commit -m"Posting component initialized"
+  211  git pull origin Ft-AddBlog
+  212  code .
+  213  git clone git@github.com:Gathoni-Wanjira/Blogify.git
+  214  cd Blogify
+  215  code .
+  216  git checkout Ft-likeButton
+  217  git checkout Ft-LikeButton
+  218  git stash
+  219  git checkout Ft-LikeButton
+  220  json-server --watch --port 3002
+  221  json-server --watch db.json  --port 3002
+  222  npm start
+  223  git clone git@github.com:Gathoni-Wanjira/Blogify.git
+  224  cd Blogify
+  225  git branch
+  226  git checkout -b my-feature-branch
+  227  git checkout -b Ft-CardRoutes
+  228  npm install
+  229  code .
+  230  git add .
+  231  git commit -m" Added CardRoutes feature & styling"
+  232  git push -u origin Ft-CardRoutes
+  233  git checkout main
+  234  git pull
+  235  npm start
+  236  npm install react-router-dom
+  237  npm start
+  238  clear
+  239  npm start
+  240  json-server --watch  db.json --port 3002
+  241  code .
+  242  npx create-react-app  snap-commerce
+  243  cd snap-commerce
+  244  code .
+  245  json-server --watch db.json --port 30002
+  246  code .
+  247  code .
+  248  code .
+  249  code .
+  250   /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 39533 -- /home/user/Downloads/JCU/Donald\ Kipchumba/Problem\ solving/prac_08/prac_08/example.py 
+  251   cd /home/user/Downloads/JCU/Donald\ Kipchumba/Problem\ solving/prac_08 ; /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 60047 -- /home/user/Downloads/JCU/Donald\ Kipchumba/Problem\ solving/prac_08/prac_08/random_numbers.py 
+  252   cd /home/user/Downloads/JCU/Donald\ Kipchumba/Problem\ solving/prac_08 ; /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 50081 -- /home/user/Downloads/JCU/Donald\ Kipchumba/Problem\ solving/prac_08/prac_08/random_numbers.py 
+  253   cd /home/user/Downloads/JCU/Donald\ Kipchumba/Problem\ solving/prac_08 ; /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 45951 -- /home/user/Downloads/JCU/Donald\ Kipchumba/Problem\ solving/prac_08/prac_08/random_numbers.py 
+  254   cd /home/user/Downloads/JCU/Donald\ Kipchumba/Problem\ solving/prac_08 ; /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 52525 -- /home/user/Downloads/JCU/Donald\ Kipchumba/Problem\ solving/prac_08/prac_08/test_scores.py 
+  255   cd /home/user/Downloads/JCU/Donald\ Kipchumba/Problem\ solving/prac_08 ; /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 34485 -- /home/user/Downloads/JCU/Donald\ Kipchumba/Problem\ solving/prac_08/prac_08/test_scores.py 
+  256   cd /home/user/Downloads/JCU/Donald\ Kipchumba/Problem\ solving/prac_08 ; /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 34171 -- /home/user/Downloads/JCU/Donald\ Kipchumba/Problem\ solving/prac_08/prac_08/debugging.py 
+  257   cd /home/user/Downloads/JCU/Donald\ Kipchumba/Problem\ solving/prac_08 ; /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 51609 -- /home/user/Downloads/JCU/Donald\ Kipchumba/Problem\ solving/prac_08/prac_08/extract_data.py 
+  258  code .
+  259  code .
+  260   /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 47703 -- /home/user/Downloads/JCU/Clare/problem_solving/Practicals/prac_08/debugging.py 
+  261   cd /home/user/Downloads/JCU/Clare/problem_solving/Practicals/prac_08 ; /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 38769 -- /home/user/Downloads/JCU/Clare/problem_solving/Practicals/prac_08/debugging.py 
+  262  docker -v
+  263  sudo apt install gnome-terminal
+  264  sudo apt remove docker-desktop
+  265  rm -r $HOME/.docker/desktop
+  266  sudo rm /usr/local/bin/com.docker.cli
+  267  sudo apt purge docker-desktop rm -r $HOME/.docker/desktop
+  268   sudo rm /usr/local/bin/com.docker.cli
+  269   sudo apt purge docker-desktop
+  270  sudo apt-get update
+  271  sudo apt-get install ca-certificates curl gnupg
+  272  echo   "deb [arch="$(dpkg --print-architecture)" signed-by=/etc/apt/keyrings/docker.gpg] https://download.docker.com/linux/ubuntu \
+  273    "$(. /etc/os-release && echo "$VERSION_CODENAME")" stable" |   sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+  274   sudo install -m 0755 -d /etc/apt/keyrings
+  275  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg
+  276  sudo chmod a+r /etc/apt/keyrings/docker.gpg
+  277  echo   "deb [arch="$(dpkg --print-architecture)" signed-by=/etc/apt/keyrings/docker.gpg] https://download.docker.com/linux/ubuntu \
+  278    "$(. /etc/os-release && echo "$VERSION_CODENAME")" stable" |   sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+  279  sudo apt-get update
+  280  sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+  281  sudo docker run hello-world
+  282  ls
+  283  cd DEsktop
+  284  cd Desktop
+  285  mkdir HELLO-DOCKER
+  286  cd HELLO-DOCKER
+  287  CODE .
+  288  code .
+  289  docker build -t hello-docker .
+  290  sudo docker build -t hello-docker .
+  291  docker images
+  292  docker image ls
+  293  sudo docker images
+  294  docker run hello-docker
+  295  sudo docker run hello-docker
+  296  # Log in to Docker Hub
+  297  docker login --username=yourusername
+  298  docker login --username=kirigwidev
+  299  sudo docker login --username =kirigwidev
+  300  sudo docker login --username =kirigwidev
+  301  sudo docker login --username =kirigwidev
+  302  sudo docker login --username=kirigwidev
+  303  docker tag hello-docker/hello-docker/hello-dock
+  304  docker tag hello-docker docker tag hello-docker/hello-docker/hello-docker
+  305  "docker tag" requires exactly 2 arguments.
+  306  See 'docker tag --help'.
+  307  Usage:  docker tag SOURCE_IMAGE[:TAG] TARGET_IMAGE[:TAG]
+  308  docker tag hello-docker kirigwidev/hello-docker
+  309  sudo docker tag hello-docker kirigwidev/hello-docker
+  310  docker push kirigwidev/hello-docker
+  311  sud0 docker push kirigwidev/hello-docker
+  312  sudo docker push kirigwidev/hello-docker
+  313  clear
+  314  docker run ubuntu
+  315  sudo docker run ubuntu
+  316  docker run -t ubunru
+  317  docker run -t ubuntu
+  318  sudo docker run -it ubuntu
+  319  [ -d /sys/firmware/efi ] && echo "UEFI mode" || echo "Legacy mode"
+  320  [ -d /sys/firmware/efi ] && echo "UEFI mode" || echo "Legacy mode"
+  321  sudo parted -l
+  322  clear
+  323  sudo apt install gparted
+  324  gparted
+  325  gpart
+  326  gparted
+  327  code .
+  328  python3
+  329   /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 33411 -- /home/user/Downloads/JCU/Donald\ Kipchumba/Problem\ solving/prac_10/programs.py 
+  330  python -v
+  331  python --version
+  332  python3 --version
+  333  code .
+  334  python3
+  335  python3
+  336  export PYTHONPATH=/usr/local/bin/python3
+  337  ls
+  338  cd ../
+  339  cd ../
+  340  which python3
+  341  code .bashrc
+  342  code .
+  343  mkdir app.py
+  344  nano
+  345  cat app.py
+  346  touch app.py
+  347  ls
+  348  rm -r app.py
+  349  ls
+  350  rm c
+  351  ls
+  352  touch app.py
+  353  nano app.py
+  354  cat app.py
+  355  cat app.py
+  356  python app.py
+  357  ls
+  358  python app.py
+  359  python3 app.py
+  360  nano app.py
+  361  cat app.py
+  362  python3 app.py
+  363  nano app.py
+  364  python3 app.py
+  365  nano app.py
+  366  nano app.py
+  367  nano app.py
+  368  cat app.py
+  369  python3 app.py
+  370  nano app.py
+  371  python3 app.py
+  372  python
+  373  pyhton3
+  374  python3
+  375  pipenv install
+  376  pipenv install
+  377  pip instal
+  378  pip install
+  379  sudo apt install python3-pip
+  380  pipenv install
+  381  sudo apt install pipenv
+  382  git clone git@github.com:Arnold-Mwangi/python-p3-running-python-code.git
+  383  cd python-p3-running-python-code
+  384  pipenv install
+  385  ode .
+  386  code .
+  387  python3
+  388   . /home/user/.local/share/virtualenvs/python-p3-running-python-code-hoaMtp2v/bin/activate
+  389  pytest
+  390  pytest
+  391  pytest-x
+  392  pytest -3
+  393  pytest -3
+  394  pytest
+  395  pytest
+  396  pytest
+  397  clear
+  398  pytest
+  399  pytest
+  400  clear
+  401  pytest
+  402  pytest
+  403  clear
+  404  pytest
+  405  code .
+  406  code .
+  407  code .
+  408   /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 44147 -- /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop/app.py 
+  409   cd /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop ; /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 36921 -- /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop/app.py 
+  410   cd /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop ; /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 44675 -- /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop/app.py 
+  411   cd /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop ; /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 33679 -- /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop/app.py 
+  412   cd /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop ; /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 50929 -- /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop/app.py 
+  413   cd /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop ; /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 34423 -- /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop/app.py 
+  414   cd /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop ; /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 54117 -- /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop/app.py 
+  415   cd /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop ; /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 58369 -- /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop/app.py 
+  416   cd /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop ; /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 33407 -- /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop/app.py 
+  417   cd /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop ; /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 41335 -- /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop/app.py 
+  418   cd /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop ; /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 57867 -- /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop/app.py 
+  419   cd /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop ; /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 42241 -- /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop/app.py 
+  420   cd /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop ; /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 36583 -- /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop/app.py 
+  421   cd /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop ; /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 41561 -- /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop/app.py 
+  422   cd /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop ; /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 44193 -- /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop/app.py 
+  423   cd /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop ; /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 46373 -- /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop/app.py 
+  424   cd /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop ; /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 34127 -- /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop/app.py 
+  425   cd /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop ; /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 60135 -- /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop/app.py 
+  426   cd /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop ; /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 54025 -- /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop/app.py 
+  427   cd /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop ; /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 59441 -- /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop/app.py 
+  428   cd /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop ; /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 36185 -- /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop/app.py 
+  429   cd /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop ; /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 57671 -- /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop/app.py 
+  430   cd /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop ; /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 56361 -- /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop/app.py 
+  431   cd /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop ; /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 48575 -- /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop/app.py 
+  432   cd /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop ; /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 57339 -- /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop/app.py 
+  433   cd /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop ; /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 40483 -- /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop/app.py 
+  434   cd /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop ; /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 51607 -- /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop/app.py 
+  435   cd /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop ; /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 44531 -- /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop/app.py 
+  436   cd /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop ; /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 54475 -- /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop/app.py 
+  437   cd /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop ; /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 39007 -- /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop/app.py 
+  438   cd /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop ; /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 39007 -- /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop/app.py 
+  439  clear
+  440  python3 app.py 
+  441  python3 app.py 
+  442  python3 app.py 
+  443  python3 app.py 
+  444  python3 app.py 
+  445  python3 app.py 
+  446  python3 app.py 
+  447   cd /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop ; /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 58901 -- /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop/app.py 
+  448   cd /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop ; /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 58901 -- /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop/app.py 
+  449  CLEAR
+  450  clear
+  451   cd /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop ; /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 58901 -- /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop/app.py 
+  452   cd /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop ; /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 36305 -- /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop/app.py 
+  453   cd /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop ; /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 33547 -- /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop/app.py 
+  454   cd /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop ; /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 38861 -- /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop/app.py 
+  455   cd /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop ; /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 38861 -- /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop/app.py 
+  456   cd /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop ; /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 56167 -- /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop/app.py 
+  457   cd /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop ; /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 42827 -- /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop/app.py 
+  458   cd /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop ; /usr/bin/env /bin/python3 /home/user/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 49045 -- /home/user/Downloads/JCU/Clare/webdesign/week_10/jameli_Floral\ Shop/app.py 
+  459  code .
+  460  ls
+  461  nano app.py
+  462  shell app.py
+  463  python3 app.py
+  464  nano app.py
+  465  code .
+  466  nano app.py
+  467  python3 app.py
+  468  nano app.py
+  469  nano app.py
+  470  python3 app.py
+  471  nano app.py
+  472  clear
+  473  python3 app.py
+  474  code .
+  475  code .
+  476  code .
+  477  code .
+  478  snap-store
+  479  sudo apt update
+  480  sudo apt install snapd
+  481  snapd
+  482  snap
+  483  snap-store
+  484  snap connections snap-store
+  485  snap disconnect snap-store:interface-name
+  486  snap connect snap-store:interface-name
+  487  clear
+  488  snap remove snap-store
+  489  snap install snap-store
+  490  cd Development
+  491  ls
+  492  cd python
+  493  cd python
+  494  ls
+  495  cd lib
+  496  ls
+  497  git clone git@github.com:Arnold-Mwangi/python-p3-functions.git
+  498  cd python-p3-functions
+  499  code .
+  500  python3
+  501  python3 --version
+  502  pipenv install
+  503  history > touch cmd.txt
+  504  history > cmd.txt
